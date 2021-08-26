@@ -1,7 +1,7 @@
 #Author: manjirikaleb@gmail.com
 #Feature:Dummy Test cases for UI application Challenging DOM 
 
-Feature: Title of your feature
+Feature: Testing of Web Page Challenging Dom
   I want to use this template for my feature file
 
  
